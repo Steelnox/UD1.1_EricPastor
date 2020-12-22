@@ -1,0 +1,13 @@
+D:\Cursillos\Ejercicios\Proyectos\T01_EricPastor\T01_EricPastor\bin\Debug\netcoreapp3.1\T01_EricPastor.exe
+D:\Cursillos\Ejercicios\Proyectos\T01_EricPastor\T01_EricPastor\bin\Debug\netcoreapp3.1\T01_EricPastor.deps.json
+D:\Cursillos\Ejercicios\Proyectos\T01_EricPastor\T01_EricPastor\bin\Debug\netcoreapp3.1\T01_EricPastor.runtimeconfig.json
+D:\Cursillos\Ejercicios\Proyectos\T01_EricPastor\T01_EricPastor\bin\Debug\netcoreapp3.1\T01_EricPastor.runtimeconfig.dev.json
+D:\Cursillos\Ejercicios\Proyectos\T01_EricPastor\T01_EricPastor\bin\Debug\netcoreapp3.1\T01_EricPastor.dll
+D:\Cursillos\Ejercicios\Proyectos\T01_EricPastor\T01_EricPastor\bin\Debug\netcoreapp3.1\T01_EricPastor.pdb
+D:\Cursillos\Ejercicios\Proyectos\T01_EricPastor\T01_EricPastor\obj\Debug\netcoreapp3.1\T01_EricPastor.csprojAssemblyReference.cache
+D:\Cursillos\Ejercicios\Proyectos\T01_EricPastor\T01_EricPastor\obj\Debug\netcoreapp3.1\T01_EricPastor.AssemblyInfoInputs.cache
+D:\Cursillos\Ejercicios\Proyectos\T01_EricPastor\T01_EricPastor\obj\Debug\netcoreapp3.1\T01_EricPastor.AssemblyInfo.cs
+D:\Cursillos\Ejercicios\Proyectos\T01_EricPastor\T01_EricPastor\obj\Debug\netcoreapp3.1\T01_EricPastor.csproj.CoreCompileInputs.cache
+D:\Cursillos\Ejercicios\Proyectos\T01_EricPastor\T01_EricPastor\obj\Debug\netcoreapp3.1\T01_EricPastor.dll
+D:\Cursillos\Ejercicios\Proyectos\T01_EricPastor\T01_EricPastor\obj\Debug\netcoreapp3.1\T01_EricPastor.pdb
+D:\Cursillos\Ejercicios\Proyectos\T01_EricPastor\T01_EricPastor\obj\Debug\netcoreapp3.1\T01_EricPastor.genruntimeconfig.cache
